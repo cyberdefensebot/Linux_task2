@@ -1,0 +1,46 @@
+    1  whoami
+    2  clear
+    3  history > commands_used.txt
+    4  ls -l commands_used.txt
+    5  ls -ld /home/kali
+    6  whoami
+    7  id
+    8  pwd
+    9  cd ~
+   10  pwd
+   11  history > commands_used.txt
+   12  ls -l commands_used.txt
+   13  clear
+   14  mkdir mission
+   15  cd mission
+   16  mkdir intel ops
+   17  cd ops
+   18  mkdir backups
+   19  tree ~
+   20  tree ~ > tree_out
+   21  ls
+   22  rm tree_out
+   23  cd ~
+   24  tree ~ >
+   25  tree ~ > tree_out
+   26  ls
+   27  tree ~
+   28  cd /home/agent007/mission/intel
+   29  ls
+   30  touch targets.txt routes.txt keys.txt
+   31  ls > listing1.txt
+   32  ls -l > listing2.txt
+   33  ls -la > listing3.txt
+   34  find ~ -type d -name backups
+   35  cp routes.txt /home/agent007/mission/ops/backups
+   36  ls ^[[200~/home/agent007/mission/ops/backups
+   37  ls /home/agent007/mission/ops/backups
+   38  rm keys.txt
+   39  ls -l targets.txt
+   40  chmod 640 targets.txt
+   41  rm /home/agent007/mission/ops/backups/routes.txt
+   42  cp routes.txt /home/agent007/mission/ops/backups
+    1  ls -l
+    2  nano targets.txt
+    3  history
+    4  ls

@@ -1,0 +1,25 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*.tmp
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs and generated runtime output
+*.log
+
+# Python cache, if Python is used by the actual lab
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.env
+.env.*
+
+# Keep evidence and submission files tracked.
+# Do not add broad rules that hide required lab evidence.
